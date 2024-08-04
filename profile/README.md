@@ -1,7 +1,7 @@
 
 Hi there 👋, this is the repository of Landhill Capital. 
 
-Please email walter@landhillcap.com if you want to fetch any resources from us.
+Please email fangzhangnz@gmail.com if you want to fetch any resources from us.
 
 <!--
 
